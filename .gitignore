@@ -1,0 +1,10 @@
+data.p
+stop_saved.png
+..gitignore.un~
+*un~
+covnet.py~
+.gitignore~
+model.h5
+working_model.h5
+data/
+linux_sim/
